@@ -93,6 +93,7 @@ hr {
     margin-right: 15px;
     border-radius: 5px;
     padding: 10px 10px;
+    width: 100px;
 }
 
 .footer a:hover {
