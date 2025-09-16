@@ -115,6 +115,13 @@ hr {
     margin-left: 4px;
     margin-right: 4px;
 }
+.footer-content {
+    display: flex;
+    flex-direction: row;
+}
+.footer-content-socials {
+    display: inline;
+}
 
 .socials {
     width: 25vw;
