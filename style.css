@@ -89,13 +89,14 @@ hr {
     bottom: 0;
     width: 100%;
     margin-top: 20px;
+    display: flex;
 }
 
 .footer a {
     color: white;
     background-color: rgb(134, 80, 9);
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 8px;
     margin: 10px;
     width: auto;
     height: 30px;
