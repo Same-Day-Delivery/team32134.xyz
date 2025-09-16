@@ -1,0 +1,68 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+.navbar {
+    background-color: whitesmoke;
+    color: black;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    padding: 5px 5px;
+}
+.navbar a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+.navbar a.active {
+    background-color: gainsboro;
+    color: black;
+}
+.navbar a.title {
+    background-color: whitesmoke;
+    color: black;
+    float: left;
+}
+.navbar a:hover {
+    background-color: lightgray;
+    color: black;
+}
+.navbar a.active:hover {
+    background-color: gray;
+}
+
+.sponsor {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+    text-align: center;
+}
+.sponsor img {
+    width: 30vw;
+    height: auto;
+}
+.sponsor img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
+.logocentre {
+    text-align: center;
+    padding-left: 20vw;
+    padding-right: 20vw;
+    width: 60vw;
+}
+.container {
+    padding: 20px;
+    display: flex;
+}
