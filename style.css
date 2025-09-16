@@ -91,6 +91,8 @@ hr {
     background-color: rgb(134, 80, 9);
     text-decoration: none;
     margin-right: 15px;
+    border-radius: 5px;
+    padding: 10px 10px;
 }
 
 .footer a:hover {
