@@ -66,3 +66,13 @@ h1 {
     padding: 20px;
     display: flex;
 }
+
+.footer {
+    padding: 20px;
+    background-color: whitesmoke;
+    color: black;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px;
+}
