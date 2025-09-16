@@ -63,6 +63,13 @@ hr {
     transform: scale(1.05);
     transition: transform 0.3s;
 }
+.sponsor-logos {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
 .logocentre {
     text-align: center;
     padding-left: 20vw;
