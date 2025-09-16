@@ -129,6 +129,7 @@ hr {
 .container img {
     max-width: 30vw;
     margin-right: 10vw;
-    height: 60vh;
+    height: 50vh;
     width: auto;
+    margin-left: 5vw;
 }
