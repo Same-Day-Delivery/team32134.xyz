@@ -11,6 +11,9 @@ main {
     padding-left: 10vw;
 }
 
+hr {
+    color: darkgrey;
+}
 .navbar {
     background-color: whitesmoke;
     color: black;
