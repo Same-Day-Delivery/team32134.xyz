@@ -2,7 +2,10 @@ html {
     font-family: "Inter", sans-serif;
 }
 
-
+img {
+    max-width: 100%;
+    height: auto;
+}
 
 main {
     padding-right: 10vw;
