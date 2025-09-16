@@ -22,6 +22,7 @@ hr {
     position: sticky;
     top: 0;
     padding: 5px 5px;
+    max-width: 100vw;
 }
 .navbar a {
     float: right;
