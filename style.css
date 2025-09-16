@@ -78,6 +78,8 @@ hr {
     text-align: center;
     padding-left: 20vw;
     padding-right: 20vw;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
     width: 60vw;
 }
 .container {
