@@ -92,7 +92,8 @@ hr {
     text-decoration: none;
     border-radius: 5px;
     margin: 10px;
-    width: 110px;
+    width: auto;
+    height: 30px;
     padding: 10px;
 }
 
