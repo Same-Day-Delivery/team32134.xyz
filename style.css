@@ -127,8 +127,8 @@ hr {
     flex-direction: row;
 }
 .container img {
-    max-width: 30%;
-    margin-right: 10%;
-    height: auto;
-    width: 30%;
+    max-width: 30vw;
+    margin-right: 10vw;
+    height: 30vh;
+    width: auto;
 }
