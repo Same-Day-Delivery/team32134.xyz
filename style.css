@@ -5,6 +5,11 @@ html {
 h1 {
     text-align: center;
 }
+
+main {
+    padding: 20px;
+}
+
 .navbar {
     background-color: whitesmoke;
     color: black;
